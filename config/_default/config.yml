@@ -1,0 +1,7 @@
+# Theme
+theme: sheevaboite
+
+enableGitInfo: false
+
+taxonomies:
+  category: "categories"

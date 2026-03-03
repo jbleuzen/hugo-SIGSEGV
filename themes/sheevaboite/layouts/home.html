@@ -1,0 +1,8 @@
+<html>
+  <body>
+
+      {{ range first 10 ($.Site.GetPage "articles" .Section).Pages }}
+          <span>{{ .Title }}</span>
+      {{ end }}
+  </body>
+</html>

@@ -1,0 +1,9 @@
+_site
+_cache
+public
+themes/sheevaboite/static
+static/images
+resources
+_drafts
+
+.hugo_build.lock
